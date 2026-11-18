@@ -184,8 +184,6 @@ Dokumentasi pengerjaan database:
 | 5 | Pengujian Foreign Key |
 | 6 | Diagram relasi Designer |
 
-Simpan screenshot sesuai nama file yang digunakan pada dokumentasi di atas.
-
 ---
 
 ## 📝 Kesimpulan
