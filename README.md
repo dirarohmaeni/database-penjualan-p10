@@ -89,9 +89,7 @@ Seluruh tabel menggunakan storage engine InnoDB.
 
 ### Diagram Relasi
 
-Tambahkan screenshot diagram Designer di sini.
-
-![Diagram Relasi](screenshots/06-designer.png)
+![Diagram Relasi](penjualan-p10/designer.png)
 
 ---
 
