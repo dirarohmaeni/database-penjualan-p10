@@ -147,7 +147,7 @@ JOIN produk
 
 Query berhasil menampilkan lima transaksi dengan informasi tanggal, nama pelanggan, nama produk, jumlah pembelian, harga produk, dan total harga.
 
-![Hasil Query JOIN](screenshots/04-join.png)
+![Hasil Query JOIN](penjualan-p10/hasil_join.png)
 
 ---
 
