@@ -167,7 +167,7 @@ Database menolak transaksi dan menghasilkan error Foreign Key Constraint (`#1452
 
 Hal ini membuktikan bahwa relasi Foreign Key berjalan dengan baik dan mencegah penggunaan ID pelanggan yang tidak terdaftar.
 
-![Pengujian Foreign Key](screenshots/05-pengujian-fk.png)
+![Pengujian Foreign Key](penjualan-p10/fk.png)
 
 ---
 
